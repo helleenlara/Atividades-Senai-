@@ -1,3 +1,5 @@
+#Leia 5 números e mostre a soma total.
+
 soma = 0
 
 for i in range(5):
