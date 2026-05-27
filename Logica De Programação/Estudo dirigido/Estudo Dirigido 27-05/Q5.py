@@ -1,4 +1,4 @@
-# Calculadora Simples
+# Leia dois números e uma operação +, -, *, /. Realize a operação escolhida.
 
 n1 = float(input("Digite o primeiro numero: "))
 op = input("qual operação ( + ; x ; / ; - ): ")
