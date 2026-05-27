@@ -1,4 +1,4 @@
-# Atividades-Senai-
+# Atividades-Senai
 
 # Curso Técnico em Desenvolvimento de Sistemas - SENAI
 
